@@ -1,1 +1,1 @@
-#Snake Game in OpenCV#
+# Snake Game in OpenCV #
